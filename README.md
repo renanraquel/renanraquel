@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renanraquel
+- 👋 Hi, I’m @renanraquel I currently work at Invillia
 - 👀 I’m interested in Java, Spring, Kafka, Cloud, Aws, Google Cloud
 - 🌱 I’m currently learning: Vue JS
 - 💞️ I’m looking to collaborate on ...
